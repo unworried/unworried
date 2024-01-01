@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats-phi-one-63.vercel.app/api?username=unworried&count_private=true&show_icons=true&theme=dark" />
 
   
-  ![Top Langs](https://github-readme-stats-phi-one-63.vercel.app/api/top-langs/?username=unworried)
+  ![Top Langs](https://github-readme-stats-phi-one-63.vercel.app/api/top-langs/?username=unworried&hide=PHP)
   <!-- <img height="180em" src="https://github-readme-stats-phi-one-63.vercel.app/api/top-langs/?username=unworried&layout=compact&theme=dark" /> -->
 </a>
 </p>
