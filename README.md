@@ -1,3 +1,6 @@
-![Top Langs](https://github-readme-stats-phi-one-63.vercel.app/api/top-langs/?username=unworried&hide=PHP&layout=donut&theme=tokyonight&hide_border=true)
-![Stats](https://github-readme-stats-phi-one-63.vercel.app/api?username=unworried&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)
-
+<a href="https://github.com/unworried">
+  <img height=200 align="center" src="https://github-readme-stats-phi-one-63.vercel.app/api?username=unworried&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/unworried">
+  <img height=200 align="center" src="https://github-readme-stats-phi-one-63.vercel.app/api/top-langs/?username=unworried&hide=PHP&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
+</a>
